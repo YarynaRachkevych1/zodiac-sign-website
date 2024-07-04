@@ -1,0 +1,55 @@
+body
+{
+    background-color:#2c2c2c;
+}
+#container
+{
+	width: 1000px;
+    height: 600;
+	margin-left: auto;
+	margin-right: auto;
+    text-align: center;
+}
+#logo
+{
+	background-color: #d7d3dd;
+    color: #8c64c4;
+	margin-top: 20px;
+	font-size: 30px;
+	letter-spacing: 2px;
+	font-weight: 900;
+}
+#description
+{
+    background-color: #2c2c2c;
+    color: white;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+}
+#enter
+{
+    background-color: #d7d3dd;
+    color: #8c64c4;
+}
+#logo2
+{
+    background-color: #d7d3dd;
+    color: #333333;
+	margin-top: 20px;
+	font-size: 30px;
+	letter-spacing: 2px;
+	font-weight: 900;
+}
+#imageL
+{
+    float: left;
+}
+#descriptionR
+{
+    margin: 15px;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 50px;
+}
